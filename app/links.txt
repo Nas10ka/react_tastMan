@@ -1,0 +1,14 @@
+# Immutable
+https://facebook.github.io/immutable-js/
+https://habrahabr.ru/company/devexpress/blog/302118/
+
+# Redux
+http://redux.js.org
+https://habrahabr.ru/post/269831/
+https://habrahabr.ru/company/mailru/blog/303456/
+
+# Cartoon
+https://medium.com/russian/руководство-по-flux-в-картинках-d59c03562ea#.c17dx6jmx
+https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6#.r601cd3cu
+
+http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459#32920459
